@@ -1,0 +1,16 @@
+GapS	1
+ETS	3
+DFS_ST	3
+IPS	2
+EAS	3
+GapC	33
+ETC	148
+DFC_ST	181
+VBdispC	33
+CBdispC	33
+Hab	93
+PolarTensorS	2
+EpsilonC	42
+MolWtS	0
+RhoC	0
+AtomNumC	0
